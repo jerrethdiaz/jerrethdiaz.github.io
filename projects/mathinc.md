@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/math.png
 title: "Complex Numbers in C++"
 date: 2022-04-19
 published: true
