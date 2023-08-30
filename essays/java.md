@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Getting behind Javascript"
+title: "Getting Behind Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
 
 ---
 
-## Where I stand
+## Where I Stand
 For me personally it has been a while since I last touched any form of coding. I have been introduced to all of the major programing languages like python,C++, and javascript. However for the past year I haven't touched coding since. Getting back into the rhythm of coding is probably one of the hardest things to do, especially when you dont practice to ensure you dont lose the knowledge you learned. If I could go back in time I would definitly start a personal project to stay fresh with coding.
 
 ## Javascript is up There
