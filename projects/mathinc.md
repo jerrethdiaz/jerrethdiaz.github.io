@@ -10,13 +10,17 @@ labels:
 summary: "A program I created in ICS 212 to compute complex math equations."
 ---
 
-Math can sometimes be hard. Especially when dealing with complex and imaginary numbers. So why not make a program that can solve these problems for you. Which is what we did in our ICS 212 class. To provide an example of what it could do I included a example below:
+Math can sometimes be hard. Especially when dealing with complex and imaginary numbers. 
+So why not make a program that can solve these problems for you. Which is what we did in our ICS 212 class. 
+To provide an example of what it could do I included a example below.
 
 
 <hr>
 
 <pre>
-This snippit of code takes two complex objects and multiplies them together to create a third complex object which stores the product of the two. So following these intital conditions:
+This snippit of code takes two complex objects and multiplies them together 
+to create a third complex object which stores the product of the two. 
+So following these intital conditions:
 
 Complex number complex1 is: (1.1 + 2.3i)
 Complex number complex2 is: (-6.3 - 7.2i)
