@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/uhunix.png
+image: img/uhunix.png
 title: "An Intoduction to Websites"
 date: 2020-11-22
 published: true
