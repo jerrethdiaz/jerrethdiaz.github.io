@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhunix.jpg
+image: img/paint2.jpg
 title: "Working as an Underling"
 date: 2023
 published: true
