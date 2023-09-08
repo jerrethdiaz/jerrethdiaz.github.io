@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jerrethdiaz", "url": "http://github.com/jerrethdiaz" },
-      { "network": "linkedin", "username": "Jerreth Diaz", "url": "http://linkedin.com/in/jerrethdiaz" }
+      { "network": "linkedin", "username": "jerrethdiaz", "url": "http://linkedin.com/in/jerrethdiaz" }
     ]
   },
   "interests": [
