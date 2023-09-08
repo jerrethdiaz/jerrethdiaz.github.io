@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions is Where it at!"
+title: "Smart Questions, Better help"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-01
+date: 2023-09-07
 published: true
 
 ---
