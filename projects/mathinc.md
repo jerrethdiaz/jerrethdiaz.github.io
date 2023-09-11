@@ -32,12 +32,13 @@ Complex multiply(const Complex &multiplyComplex) const{
     Complex complex3(real3, imaginary3);
     return complex3;
 }
+</pre>
 <hr>
 This would would return in the console:
 
 Multiply() member function. Multiply complex1 by complex2 and store it in complex3.
 (9.63 - 22.41i)
 Complex number complex3 is: (9.63 - 22.41i)
-</pre>
+
 
 <hr>
