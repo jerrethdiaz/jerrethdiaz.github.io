@@ -14,15 +14,12 @@ Math can sometimes be hard. Especially when dealing with complex and imaginary n
 So why not make a program that can solve these problems for you. Which is what we did in our ICS 212 class. 
 To provide an example of what it could do I included a example below.
 
-
-<hr>
-
-
 This snippit of code takes two complex objects and multiplies them together 
 to create a third complex object which stores the product of the two. 
 So following these intital conditions:
 
 Complex number complex1 is: (1.1 + 2.3i)
+
 Complex number complex2 is: (-6.3 - 7.2i)
 <hr>
 <pre>
@@ -34,9 +31,10 @@ Complex multiply(const Complex &multiplyComplex) const{
 }
 </pre>
 <hr>
+
 This would would return in the console:
 
 Multiply() member function. Multiply complex1 by complex2 and store it in complex3.
-(9.63 - 22.41i)
-Complex number complex3 is: (9.63 - 22.41i)
+The answer was = (9.63 - 22.41i) so complex3 is: (9.63 - 22.41i).
 
+To view the rest of the code click [Here](https://github.com/jerrethdiaz/ImaginarynumbersinC/blob/main/diazjerreth22.cpp)
