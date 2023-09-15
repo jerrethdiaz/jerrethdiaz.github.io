@@ -36,5 +36,4 @@ This would would return in the console:
 
 Multiply() member function. Multiply complex1 by complex2 and store it in complex3.
 The answer was = (9.63 - 22.41i) so complex3 is: (9.63 - 22.41i).
-
 To view the rest of the code click [Here](https://github.com/jerrethdiaz/ImaginarynumbersinC/blob/main/diazjerreth22.cpp)
