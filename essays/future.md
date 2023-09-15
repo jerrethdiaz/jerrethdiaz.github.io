@@ -7,15 +7,17 @@ date: 2023-09-01
 published: true
 
 ---
+<img class="img-fluid" src="../img/SEpic.jpg">
+
 
 ## My Journey
 
-I've actually never questioned what makes a website work, much less the internet when I was young. I just thought that thats the way things were. During my journey of what comprises computer science I got to see just how broad yet how interconnected things are. While I have a tough time really grasping ideas in the field especially when it comes to coding. I still think that the idea of being able to create almost anything is a increadible power to have. 
+When I was younger, I never really questioned how websites functioned, let alone the intricacies of the internet itself. I simply took them for granted as part of the way the world worked. However, as I embarked on my exploration of computer science, I began to appreciate the vast and interconnected nature of this field. Although I often find certain concepts, especially those related to coding, challenging to grasp, I am continually fascinated by the remarkable ability to create virtually anything that this field offers. The power to bring ideas to life through technology is truly incredible.
 
 ## Future Plans
 
-Firstly, I aim to strengthen my proficiency in programming languages such as Python, Java, and JavaScript. Additionally, I seek to deepen my knowledge of software architecture and design principles, enabling me to create scalable and maintainable systems. I would also like to futher my knowledge on new developments in the tech space like Artifical intelligence or the increasing need for cybersecurity. Furthering my knowledge on these topics will definitly help me down the road.
+Firstly, my goal is to enhance my proficiency in programming languages such as Python, Java, and JavaScript. Additionally, I intend to deepen my understanding of software architecture and design principles, with the aim of creating scalable and maintainable systems. Furthermore, I am eager to expand my knowledge in emerging technology areas such as Artificial Intelligence and the growing importance of cybersecurity. Gaining expertise in these fields will undoubtedly benefit me in the future.
 
 ## What Now
 
-A lot of concepts taught in computer science is skill not talent so to enhance my skills in software engineering, I have plan to improve by consistently practicing the concepts I learn from here on out. Collaboration is key on my way to becoming a better software engineer so I plan on becoming more open to asking questions and generally speaking more approachable. In time I believe that I will be able to be confident in my skills it will just take time.
+Many concepts in computer science are skills, not innate talents. To enhance my proficiency in software engineering, I have a clear plan: consistent practice of the concepts I learn from this point forward. Collaboration will be a cornerstone of my journey toward becoming a better software engineer, so I intend to become more open to asking questions and generally be more approachable. With time and dedication, I am confident that I will gain the self-assuredness in my skills that I aspire to; it's a journey that will require patience and persistence.
