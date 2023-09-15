@@ -17,4 +17,4 @@ Improving my skill is an ongoing journey that requires dedication. I believe tha
 
 <hr>
 
-This is what the website looks like: <a href="http://www2.hawaii.edu/~jdiaz7/">http://www2.hawaii.edu/~jdiaz7/</a>
+What the website looks like: <a href="http://www2.hawaii.edu/~jdiaz7/">http://www2.hawaii.edu/~jdiaz7/</a>
