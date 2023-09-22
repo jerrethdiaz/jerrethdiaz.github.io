@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Standards must be kept"
+title: "Standards Must be Kept"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
 published: true
