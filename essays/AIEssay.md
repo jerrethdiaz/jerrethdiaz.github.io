@@ -8,6 +8,8 @@ published: true
 
 ---
 
+<img class="img-fluid" src="../img/artificial-intelligence-engineer.jpg" width="75%">
+
 ## AI is Here to Stay
 
 As AI continues to improve more people will learn about it and use it. Many believe that AI is detrimental to students' learning which can be the case, but it can also help by assisting students understand difficult concepts. I did use AI such as ChatGPT or Github Co-pilot. I have used AI in various scenarios such as explaining code to even producing code given a set of instructions.
