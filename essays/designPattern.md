@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Resolving Challenges with Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-21
+date: 2023-11-30
 published: true
 
 ---
