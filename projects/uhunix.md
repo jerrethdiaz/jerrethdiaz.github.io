@@ -4,7 +4,7 @@ type: project
 image: img/uhunix.jpg
 title: "An Intoduction to Websites"
 date: 2020-11-22
-published: true
+published: false
 labels:
   - UH Unix
 summary: "My first website through UH unix."
