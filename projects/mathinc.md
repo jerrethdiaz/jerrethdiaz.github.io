@@ -16,7 +16,9 @@ Mathematics, particularly when delving into the realms of complex and imaginary 
 This particular snippet of code is designed to perform the multiplication of two complex numbers, resulting in a third complex number that represents the product. Consider the following initial conditions:
 
 Complex number complex1 is defined as: 1.1+2.3i
+
 Complex number complex2 is defined as: −6.3−7.2i
+
 The function Complex multiply(const Complex &multiplyComplex) const is structured as follows:
 
 <hr>
