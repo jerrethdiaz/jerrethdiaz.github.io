@@ -7,6 +7,7 @@ date: 2023-12-12
 published: true
 
 ---
+<img class="img-fluid" src="../img/webreflect.png" width="50%">
 
 ## Web Development
 
