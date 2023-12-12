@@ -10,6 +10,7 @@ labels:
 summary: "A program I created in ICS 212 to compute complex math equations."
 ---
 
+<img class="img-fluid" src="../img/complexcpp.png" width="75%">
 
 Mathematics, particularly when delving into the realms of complex and imaginary numbers, can pose significant challenges. To address this complexity, we developed a program in our ICS 212 class that simplifies the process of handling these numbers. Below is an illustrative example of the program’s capability.
 
