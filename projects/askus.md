@@ -28,3 +28,5 @@ In the development of this project, my primary responsibility was on the front-e
 This project was a significant learning experience, especially in terms of team dynamics. We faced challenges, but instead of discouraging one another, we chose to support and collectively overcome obstacles. Breaking the project into three major milestones was beneficial, as it allowed for effective task delegation. This approach ensured that everyone contributed meaningfully, culminating in a website that we are all proud of today.
 
 <img class="img-fluid" src="../img/chatbot.png">
+
+To view everything about this project consider visiting our [homepage](https://regex-ics314.github.io/)
