@@ -1,0 +1,53 @@
+{
+  "basics": {
+    "name": "Jerreth Diaz",
+    "label": "Student",
+    "picture": "https://github.com/jerrethdiaz.png",
+    "email": "jdiaz7@hawaii.edu",
+    "phone": "808-218-0551",
+    "website": "https://jerrethdiaz.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jerrethdiaz", "url": "http://github.com/jerrethdiaz" },
+      { "network": "linkedin", "username": "jerrethdiaz", "url": "http://linkedin.com/in/jerrethdiaz" }
+    ]
+  },
+  "interests": [
+    { "name": "Cyber Security" },
+    { "name": "Filipino Language" },
+    { "name": "Gaming" },
+    { "name": "Artifical Intelligence" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2020",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Deans List",
+      "date": "2020-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Awarded to UH Manoa students who maintain a 3.5 Minimum GPA with at least 12 credits being taken throughout the semester."
+    }
+    
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
