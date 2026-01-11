@@ -6,7 +6,7 @@
     "email": "jdiaz7@hawaii.edu",
     "phone": "808-218-0551",
     "website": "https://jerrethdiaz.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "I have a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduated in Spring, 2025.",
     "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jerrethdiaz", "url": "http://github.com/jerrethdiaz" },
@@ -15,7 +15,6 @@
   },
   "interests": [
     { "name": "Cyber Security" },
-    { "name": "Filipino Language" },
     { "name": "Gaming" },
     { "name": "Artifical Intelligence" }
   ],
@@ -28,10 +27,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2025)",
+      "area": "Information and Computer Sciences",
       "studyType": "B.A.",
       "startDate": "2020",
-      "endDate": "Present",
+      "endDate": "2025",
       "courses": [
       ]
     }
